@@ -1,6 +1,6 @@
 {
   "name": "dusort",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "du -sh * | sort -rh",
   "main": "index.js",
   "bin": {
